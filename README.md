@@ -30,7 +30,7 @@ Following is a example of how to appropriately use the library
 		fuzz.add_memberset("output", "Steer", "zero", "40, 50, 60, 70");
 		fuzz.add_memberset("output", "Steer", "left", "70, 80, 90, 100");
 ```
-	Finally we have to define the rules for our system. They are defined as simple strings in the format shown
+Finally we have to define the rules for our system. They are defined as simple strings in the format shown
 	below.
 	(IF "Input name" is "memberset name" <and>.... THEN "input name" is "memberset name").
 	
