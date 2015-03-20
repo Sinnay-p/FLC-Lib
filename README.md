@@ -50,11 +50,12 @@ Following is a example of how to appropriately use the library
 			System.out.format("The output is %f%n",d);
 		}
 	```
-	Subsequently, to retrieve the triggered rules, we should call the active_rules() method which returns a list of       strings containing the triggered rules.
+	Subsequently, to retrieve the triggered rules, we should call the active_rules() method which returns a list
+	of strings containing the triggered rules.
 	```
 		System.out.println("Rules triggered--------------------");
 		for (String s : fuzz.active_rules())
 		{
 			System.out.println(s);
 		}
-  ```
+  	```
