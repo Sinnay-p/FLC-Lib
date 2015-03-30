@@ -57,7 +57,6 @@ Subsequently, to retrieve the triggered rules, we should call the active_rules()
 	of strings containing the triggered rules.
 	
 ```
-		System.out.println("Rules triggered--------------------");
 		for (String s : fuzz.active_rules())
 		{
 			System.out.println(s);
