@@ -11,8 +11,9 @@ import com.fuzzy.engine.objects.LinguisticVariable;
 import com.fuzzy.objects.MembersetFunction;
 
 /**
- * @author Paskalis Giannis
+ * @author Paskalis Giannis (J.Paskal@coding-labs.eu)
  * @dateCreated 16 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
  */
 public class FuzzyLogicController {
 

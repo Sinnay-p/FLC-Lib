@@ -2,7 +2,12 @@ package com.fuzzy.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-
+/**
+ * @author Theseas Maroulis (info@theseas.eu)
+ * @dateCreated 05 Jan 2014
+ * @lastRevision 18 Mar 2015 12:00
+ * @info Logger Class.
+ */
 public class Utils {
 	
 	static String timeStamp = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(Calendar.getInstance().getTime());

@@ -1,8 +1,10 @@
 package com.fuzzy.objects;
 
 /**
- * @author Paskalis Giannis
- *@dateCreated 15 Dec 2014
+ * @author Paskalis Giannis (J.Paskal@coding-labs.eu)
+ * @dateCreated 15 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
+ * @info Triangular Memberset Function.
  */
 public class Trimf extends MembersetFunction {
 

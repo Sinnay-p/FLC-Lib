@@ -8,8 +8,9 @@ import javax.swing.text.html.HTMLDocument.Iterator;
 import com.fuzzy.engine.Settings.Operator;
 
 /**
- * @author Paskalis Giannis
+ * @author Paskalis Giannis (J.Paskal@coding-labs.eu)
  * @dateCreated 16 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
  * @info this is the Rule Engine where each Rule instance is used
  */
 public class RuleEngine {

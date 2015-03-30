@@ -21,8 +21,9 @@ import com.fuzzy.objects.Tramf;
 import com.fuzzy.objects.Trimf;
 
 /**
- * @author Paskalis Giannis
+ * @author Paskalis Giannis (j.paskal@coding-labs.eu)
  *@dateCreated 18 Mar 2015
+ *@lastRevision 18 Mar 2015 12:00
  * This is the api's wrapper class. It performs all necessary actions regarding the initialization and trigger,
  * of the fuzzy system.
  */

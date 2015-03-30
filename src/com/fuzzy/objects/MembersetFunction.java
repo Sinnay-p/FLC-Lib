@@ -3,8 +3,9 @@ package com.fuzzy.objects;
 import java.util.ArrayList;
 
 /**
- * @author Paskalis Giannis
+ *@author Paskalis Giannis (J.Paskal@coding-labs.eu)
  * @dateCreated 15 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
  * @info Changed from A LinkedHashMap<String, ArrayList<Double> to  an abstract
  *       object
  *       **/

@@ -5,8 +5,10 @@ import com.fuzzy.api.Fuzzy;
 import com.fuzzy.engine.objects.LinguisticVariable;
 import com.fuzzy.objects.MembersetFunction;
 /**
- * @author Paskalis Giannis
- *@dateCreated 19 Mar 2015
+ * @author Paskalis Giannis (J.Paskal@coding-labs.eu)
+ * @dateCreated 19 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
+ * @info UnitTest Class.
  */
 public class FuzzyLibraryTest {
 

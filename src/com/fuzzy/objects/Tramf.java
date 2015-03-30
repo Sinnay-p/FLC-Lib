@@ -1,8 +1,10 @@
 package com.fuzzy.objects;
 
 /**
- * @author Paskalis Giannis
+ * @author Paskalis Giannis (J.Paskal@coding-labs.eu)
  * @dateCreated 16 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
+ * @info Trapezoid Memberset Function.
  */
 public class Tramf extends MembersetFunction {
 	public Tramf(String label, double a, double b, double c, double d)

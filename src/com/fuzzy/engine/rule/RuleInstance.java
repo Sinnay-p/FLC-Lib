@@ -1,8 +1,9 @@
 package com.fuzzy.engine.rule;
 
 /**
- * @author Paskalis Giannis
+ * @author Paskalis Giannis (J.Paskal@coding-labs.eu)
  * @dateCreated 16 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
  * @info in this class we define a single rule item - instance
  */
 

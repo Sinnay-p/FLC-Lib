@@ -1,8 +1,9 @@
 package com.fuzzy.engine.objects;
 
 /**
- * @author Paskalis Giannis
- *@dateCreated 16 Dec 2014
+ * @author Paskalis Giannis (J.Paskal@coding-labs.eu)
+ * @dateCreated 16 Dec 2014
+ * @lastRevision 18 Mar 2015 12:00
  */
 public class FuzzyNumbers {
 	
